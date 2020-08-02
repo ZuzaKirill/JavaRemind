@@ -1,3 +1,4 @@
+//Работа с циклом for, реверсированный цикл;
 public class Test2 {
 
     public static void main(String[] args) {
